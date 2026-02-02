@@ -21,8 +21,8 @@ Sou **Desenvolvedor Full-Stack** apaixonado por tecnologia, sempre aprendendo co
 | Frontend | Backend | Banco de Dados | Outras |
 |----------|---------|----------------|--------|
 | HTML, CSS | Node.js | SQLite | Git & GitHub |
-| TypeScript | Express | — | REST APIs |
-| React (básico) | APIs | — | Postman |
+| TypeScript | Express | MySQL | REST APIs |
+| React (básico) | APIs | PostegreSQL | Insomnia |
 
 ---
 
