@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luan (ContersK)
 
-<!--
-**ContersK/ContersK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Full-Stack** apaixonado por tecnologia, sempre aprendendo coisas novas e construindo soluções que ajudam pessoas e empresas a resolver problemas reais.
 
-Here are some ideas to get you started:
+🚀 Atualmente focado em backend com **Node.js**, **TypeScript**, APIs e boas práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+- 👨‍💻 Desenvolvedor e entusiasta de tecnologia  
+- 💡 Buscando sempre aprender novas linguagens, ferramentas e técnicas  
+- 📚 Estudante de Engenharia da Computação pelo Unisalesiano Araçatuba
+- 🌐 Aberto a colaborações em projetos de código aberto
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+✨ Tecnologias que uso com frequência:
+
+| Frontend | Backend | Banco de Dados | Outras |
+|----------|---------|----------------|--------|
+| HTML, CSS | Node.js | SQLite | Git & GitHub |
+| TypeScript | Express | — | REST APIs |
+| React (básico) | APIs | — | Postman |
+
+---
+
+## 📌 Destaques de Repositórios
+
+Confira alguns trabalhos que já fiz 👇  
+
+- 📍 **api-nodejs** – API em Node.js com TypeScript  
+- 📍 **proj-to-do-list** – Lista de tarefas com funcionalidades CRUD  
+- 📍 **moraes-site** – Website estático moderno  
+- 📍 **proj-fliptelecom** – Projeto com lógica e estrutura de TypeScript  
+
+> 🔒 Muitos outros projetos estão disponíveis no meu perfil — explore a aba de repositórios!
+
+---
+
+## 🚀 Me encontre por aí  
+🌐 GitHub: https://github.com/ContersK  
+📩 Fique à vontade para entrar em contato ou colaborar!
+
+---
+
+✨ Obrigado pela visita à minha página!  
