@@ -40,7 +40,7 @@ Confira alguns trabalhos que já fiz 👇
 ---
 
 ## 🚀 Me encontre por aí  
-🌐 GitHub: https://github.com/ContersK  
+🌐 Linkedin: https://www.linkedin.com/in/luan-fernandes-82370a248/
 📩 Fique à vontade para entrar em contato ou colaborar!
 
 ---
