@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Luan (ContersK)
+# 👋 Olá, eu sou o Luan
 
 Sou **Desenvolvedor Full-Stack** apaixonado por tecnologia, sempre aprendendo coisas novas e construindo soluções que ajudam pessoas e empresas a resolver problemas reais.
 
